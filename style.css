@@ -1,0 +1,147 @@
+.card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 34px ;
+    gap: 400px;
+}
+#id{
+    width: 112px;
+    height: 18px;
+}
+#id1{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #837D88;
+}
+#btn{
+    border: 1px solid black;
+    width: 146px;
+    height: 40px;
+    background-color: white;
+    color: black    ;
+}
+a:hover{
+    color: black;
+}
+.card1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2D2641;
+}
+#div{
+    padding-top: 100px;
+}
+h1{
+font-size: 72px;
+font-weight: 400;
+line-height: 64px;
+letter-spacing: -1px;
+text-align: left;
+color: white;
+
+}
+p{
+    margin-top: 30px;
+    font-family: Karla;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: white;
+
+}
+#bnt{
+    margin-top: 30px;
+    border: 1px solid white;
+    color: white;
+    width: 146px;
+    height: 40px;
+    background-color: #2D2641;
+}
+.card2{
+    width: 100%;
+    
+}
+#h1{
+    color: #2C2830;
+    font-family: DM Serif Display;
+font-size: 72px;
+font-weight: 400;
+line-height: 64px;
+letter-spacing: -1px;
+text-align: left;
+text-align: center;
+margin-top: 130px;
+}
+#p12{
+    color: black;
+}
+.card2{ 
+    text-align: center;  
+}
+#section{
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+}
+#jamo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+#find{
+    color: white;
+    font-size: 70px;
+    padding-right: 550px;
+}
+.card3{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    background: #2D2641;
+    justify-content: space-around;
+    height: 210px;
+}
+button{
+    width: 160px;
+    height: 40px;
+    top: 105px;
+    left: 870px;
+    gap: 0px;
+    opacity: 0px;
+        border: 1px solid white;
+        background-color: #2D2641;
+        color: white;
+}
+.card4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+}
+#img{
+    margin-right: 600px;
+}
+hr{
+    margin-top: 30px;
+}
+#soz{
+    color: #837D88;
+}
+#kp1{
+    color: black;
+}
+.card7{
+    display: flex;
+    gap: 250px;
+    align-items: center;
+    justify-content: center;
+}
+kp1:hover{
+    color: #2C2830;
+}
